@@ -13,7 +13,7 @@ from scipy.linalg import expm
 # ============================================================
 
 # ----------------Load .mat file (EX03 dataset)
-mat_file_path = "ex03_10075939.mat"
+mat_file_path = "imu_dataset.mat"
 mat_data = scipy.io.loadmat(mat_file_path)
 
 static_data = mat_data["imudata"]["static"][0, 0]   # (Ns, 7)
