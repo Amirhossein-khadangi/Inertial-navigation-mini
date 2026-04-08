@@ -9,3 +9,9 @@ __pycache__/
 Ex3_IN (1).py
 Ex3_IN copy.py
 Part1.py
+
+# Ignore unused dataset
+ex03_10076948.mat
+
+# Ignore PDFs
+*.pdf
