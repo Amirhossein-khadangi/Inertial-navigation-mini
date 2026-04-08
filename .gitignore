@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore duplicated or unrelated files
+Ex3_IN (1).py
+Ex3_IN copy.py
+Part1.py
